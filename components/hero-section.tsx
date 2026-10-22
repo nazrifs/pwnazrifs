@@ -63,10 +63,10 @@ export function HeroSection() {
           <div className="relative mx-auto max-w-md lg:max-w-none">
             <div className="absolute inset-x-6 bottom-0 top-10 -z-10 rounded-[2rem] bg-charcoal" />
             <Image
-              src="/images/nazri-02.jpeg"
+              src="/images/P2.jpg"
               alt="Nazri Fuad, real estate negotiator in Johor Bahru"
               width={720}
-              height={840}
+              height={840}  
               priority
               className="relative mx-auto aspect-[6/7] w-full rounded-[2rem] object-cover object-top shadow-xl"
             />
